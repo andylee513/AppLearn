@@ -16,3 +16,4 @@ rootProject.name = "AppLearn"
 include ':app'
 include ':lesson01'
 include ':lesson02'
+include ':lesson03'
